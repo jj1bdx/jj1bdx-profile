@@ -16,7 +16,7 @@ The following list contains Japanese characters for Japanese pages and sites.
 ## Social Networking Sites
 
 * [Facebook](https://www.facebook.com/jj1bdx)
-* [GitHub](https://github.com/jj1bdx) (GitHub is an SNS)
+* [GitHub](https://github.com/jj1bdx)
 * [Instagram](https://www.instagram.com/jj1bdx)
 * [Twitter](https://twitter.com/jj1bdx)
 
