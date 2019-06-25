@@ -1,0 +1,11 @@
+Kenji Rikitake is the Founder of Kenji Rikitake Professional Engineer's
+Office. He is a Gijyutsushi (Japan's government-licensed professional
+engineer) of Information Engineering since 2001, and a Registered Information
+Security Specialist of Japan since 2018. He received B. Eng. and M. Eng.
+degrees from the University of Tokyo in 1988 and 1990, and received a Ph.D. in
+Information Science from Osaka University in 2005. He was a Professor of
+Academic Center for Computing and Media Studies and the Institute for
+Information Management and Communication (ACCMS/IIMC) of Kyoto University,
+from 2010 to 2013.  His research interests include distributed systems,
+Erlang/OTP, internet security, and radio engineering. He is ACM Senior Member,
+IEICE Senior Member, and a member of IPSJ and IPEJ. 
